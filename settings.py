@@ -5,8 +5,8 @@ import logging
 
 load_dotenv()
 
-API_ID = os.getenv('api_id')
-API_HASH = os.getenv('api_hash')
+API_ID = os.getenv('2733247')
+API_HASH = os.getenv('8ffb4cd06500ee74d29418f4b3463445')
 
 assert API_ID and API_HASH
 
